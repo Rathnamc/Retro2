@@ -7,4 +7,4 @@ Performs 4 operations:
 * Subtraction
 * Multiplication
 * Division
-* 
+
