@@ -1,2 +1,10 @@
 # Retro2
-Updated Retro Calculator
+A Simple Retro Calculator  
+
+Performs 4 operations:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* 
